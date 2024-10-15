@@ -1,0 +1,13 @@
+job\JobServiceGrpc$JobServiceBlockingStub.class
+job\JobServiceGrpc$2.class
+job\JobServiceGrpc$JobServiceFileDescriptorSupplier.class
+job\JobServiceGrpc.class
+job\JobServiceGrpc$JobServiceImplBase.class
+job\JobServiceGrpc$1.class
+job\JobManagement$1.class
+job\JobServiceGrpc$JobServiceStub.class
+job\JobServiceGrpc$3.class
+job\JobServiceGrpc$JobServiceFutureStub.class
+job\JobServiceGrpc$JobServiceMethodDescriptorSupplier.class
+job\JobServiceGrpc$JobServiceBaseDescriptorSupplier.class
+job\JobServiceGrpc$MethodHandlers.class
